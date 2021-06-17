@@ -1,0 +1,68 @@
+
+# React files
+sgp-react/node_modules
+sgp-react/build
+sgp-react/npm-debug.log
+sgp-react/.DS_Store
+sgp-react-REF/
+sgp-react-NEWs/
+
+# Database files
+sgp-docker/database
+sgp-docker/database/journal
+*.docker_temp_*
+
+# Log file
+*.log
+
+# Maven files
+sgp-spring/target/
+sgp-spring/settings/
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Java files
+*.class
+*.jar
+*.war
+*.nar
+*.ear
+*.logs
+*.iml
+*.zip
+*.tar.gz
+*.rar
+*.tar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# IntelliJ files
+#out/
+#.idea/
+#.idea_modules/
+#*.iml
+#*.ipr
+#*.iws
+
+# Eclipse files
+#bin/
+#tmp/
+#.metadata
+#*.tmp
+#*.bak
+#*.swp
+#*~.nib
+#local.properties
+#.factorypath
+
+# Visual Studio Code files
+#.vscode/
+#.code-workspace
+
+# OS X files
+.DS_Store
